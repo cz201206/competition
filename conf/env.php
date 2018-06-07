@@ -1,0 +1,2 @@
+<?php
+$appPath = $_SERVER['DOCUMENT_ROOT'].DIRECTORY_SEPARATOR.'henghost'.DIRECTORY_SEPARATOR."public_html".DIRECTORY_SEPARATOR."competition";
